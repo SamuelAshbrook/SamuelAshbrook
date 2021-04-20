@@ -3,6 +3,21 @@
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ashbrook_samuel?style=social)
+![GitHub followers](https://img.shields.io/github/followers/SamuelAshbrook?label=GitHub%20Followers&style=social)
+
+---
+
+Web Developer studying BTEC Level 3 Extended Diploma in IT.
+
+I use a range of different skills, technologies and tools in the applications I develop including:
+- HTML5
+- CSS3		
+- JavaScript [ES6]
+- React.js
+- Responsive Design
+
+I am a hardworking and highly motivated individual prepared to learn and expand my web development skills so that I can apply them when creating effective programs.
+
 <!--
 **SamuelAshbrook/SamuelAshbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
