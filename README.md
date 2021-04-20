@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I am Samuel Ashbrook. <img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width= "30px">
 
+---
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ashbrook_samuel?style=social)
 <!--
 **SamuelAshbrook/SamuelAshbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
