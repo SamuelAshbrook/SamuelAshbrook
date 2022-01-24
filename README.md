@@ -14,9 +14,9 @@ I use a range of different skills, technologies and tools in the applications I 
 I am a hardworking and highly motivated individual prepared to learn and expand my web development skills so that I can apply them when creating effective programs.
 
 ---
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ashbrook_samuel?style=social)
-![GitHub followers](https://img.shields.io/github/followers/SamuelAshbrook?label=GitHub%20Followers&style=social)
+![Linkedin Follow](https://img.shields.io/twitter/follow/samuelashbrook?label=LinkedIn&logo=Linkedin&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ashbrook_samuel?color=blue&label=Twitter&style=social)
+![Visits](https://komarev.com/ghpvc/?username=SamuelAshbrook&color=blue)
 
 
 <!--
