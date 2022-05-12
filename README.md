@@ -9,9 +9,7 @@
 
 ---
 
-Currently, I am an apprentice Web Developer studying Level 4 Software Development at Step3 Digital. I'm learning a variety of different design and development skills to achieve my goal of becoming an exceptionally creative Full-Stack developer.
 
-If you would like to know more about me then feel free to <a href= "https://samuelashbrook.com">browse my portfolio</a>.
 
 ---
 
