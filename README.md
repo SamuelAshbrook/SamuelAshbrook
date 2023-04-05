@@ -5,7 +5,7 @@ My approach is characterized by an unwavering work ethic and a relentless drive 
 
 ---
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=samuelashbrook&show_icons=true&theme=dark&count_private=true"></p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuelashbrook&show_icons=true&theme=dark&count_private=true"></p>
 
 ---
 
