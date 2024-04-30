@@ -1,7 +1,5 @@
-<h1>Hi 👋, I'm Samuel Ashbrook</h1>
-<p>I am deeply committed to honing my craft and expanding my technical expertise in order to deliver optimal outcomes for future projects.
-
-My approach is characterized by an unwavering work ethic and a relentless drive to continuously enhance my proficiency in a diverse range of development skills, technologies, and tools. With a demonstrated proficiency in utilizing PHP, jQuery, JavaScript [ES6], Laravel, WordPress, HTML, CSS3 & Git, I possess the technical acumen necessary to develop dynamic and cutting-edge web applications that meet the ever-evolving needs of modern businesses.</p>
+<h1>Samuel Ashbrook</h1>
+<p>Experienced problem solver with a proven track record in website development, specializing in PHP, WordPress, and JavaScript. With a keen eye for detail and a commitment to excellence, I create scalable, dynamic websites that prioritize user experience and security. Currently driving innovation at Step3 Digital, I help transform ideas into elegant digital solutions.</p>
 
 ---
 
@@ -9,21 +7,6 @@ My approach is characterized by an unwavering work ethic and a relentless drive 
 
 ---
 
-🌱 I’m currently learning **Laravel and React**
+🌱 I’m currently learning **how to use external REST API's in custom Plugins**
 
-📫 You can reach me by <a href= "mailto:info@samuelashbrook.com">Email</a> or <a href= "https://www.linkedin.com/in/samuelashbrook/">LinkedIn</a>
-
-<!--
-**SamuelAshbrook/SamuelAshbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me by <a href= "mailto:ashbrooksamuel0@gmail.com">Email</a> or <a href= "https://www.linkedin.com/in/samuelashbrook/">LinkedIn</a>
