@@ -1,5 +1,5 @@
 <h1>Samuel Ashbrook</h1>
-<p>Experienced problem solver with a proven track record in website development, specializing in PHP, WordPress, and JavaScript. With a keen eye for detail and a commitment to excellence, I create scalable, dynamic websites that prioritize user experience and security. Currently driving innovation at Step3 Digital, I help transform ideas into elegant digital solutions.</p>
+<p>Experienced problem solver with a proven track record in website development, specializing in PHP, WordPress, and JavaScript. With a keen eye for detail and a commitment to excellence, I create scalable, dynamic websites that prioritize user experience and security. I help transform ideas into elegant digital solutions.</p>
 
 ---
 
