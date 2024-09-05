@@ -7,6 +7,6 @@
 
 ---
 
-🌱 I’m currently learning **how to use external REST API's in custom Plugins**
+🌱 I’m currently learning **how to create custom Gutenberg blocks with React**
 
 📫 You can reach me by <a href= "mailto:ashbrooksamuel0@gmail.com">Email</a> or <a href= "https://www.linkedin.com/in/samuelashbrook/">LinkedIn</a>
